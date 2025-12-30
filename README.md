@@ -37,7 +37,7 @@ cd Python-crash-course-3rd-edition-solution-
 
 3. Run Python scripts:
 ```bash
-python Chapter_1/hello_world.py
+python "Chapter 1 Getting Started/hello_world.py"
 ```
 
 ## Notes
